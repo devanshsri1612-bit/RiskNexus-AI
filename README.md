@@ -132,27 +132,6 @@ Decision Engine
 ALLOW / REVIEW / BLOCK
 ```
 
----
-
-## 📸 Dashboard Screenshots
-
-### Home Dashboard
-
-Add screenshot here
-
-### Transaction Analysis
-
-Add screenshot here
-
-### AI Investigation Summary
-
-Add screenshot here
-
-### Risk Visualization
-
-Add screenshot here
-
----
 
 ## 🛠️ Technology Stack
 

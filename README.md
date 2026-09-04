@@ -259,6 +259,22 @@ RiskNexus AI helps financial institutions:
 - Real-Time Alerting System
 
 ---
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](Screenshot%202026-09-04%20201201.png)
+
+### Transaction Analysis
+![Analysis](Screenshot%202026-09-04%20201457.png)
+
+### AI Investigation Summary
+![AI Summary](Screenshot%202026-09-04%20201526.png)
+
+### Risk vs Trust Analysis
+![Graph](Screenshot%202026-09-04%20201254.png)
+
+### Investigation Report
+![Report](Screenshot%202026-09-04%20201228.png)
 
 ## 👨‍💻 Developed By
 

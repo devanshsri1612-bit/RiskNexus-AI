@@ -1,0 +1,11 @@
+user_id,avg_amount,usual_location,usual_device
+U001,800,Lucknow,Android
+U002,1200,Delhi,iPhone
+U003,500,Mumbai,Android
+U004,1500,Bangalore,iPhone
+U005,700,Kanpur,Android
+U006,1000,Pune,Android
+U007,900,Delhi,Android
+U008,1300,Lucknow,iPhone
+U009,600,Mumbai,Android
+U010,1100,Hyderabad,iPhone
